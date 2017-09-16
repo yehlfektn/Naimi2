@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Naimi</string>
+    <string name="record">Записать ответ</string>
+    <string name="watch">Посмотреть</string>
+    <string name="delete">Удалить</string>
+    <string name="startInterview">Пройти собеседование</string>
+</resources>
